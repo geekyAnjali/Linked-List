@@ -17,4 +17,9 @@ There are three types of linked list
 <li>insertATIndex
 </ul>
 <li> delition 
-<ul> <Ldelete at first
+<ul> <li>delete at first
+  <li> delete at last
+    <li> delete at index
+  </ul>
+  <li>display the list
+    </ul>
