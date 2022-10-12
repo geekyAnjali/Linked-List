@@ -1,5 +1,3 @@
-from tkinter import Y
-
 
 class Node():
     '''
@@ -171,18 +169,4 @@ if __name__ == '__main__':
             break   
     else:
         print("Operation exited")
-   
-    # li.insert(5)
-    # li.insert(4)
-    # li.insert(3)
-    # li.insert(2)
-    # li.insert(1)
-    # li.insertAtFirst(10)
-    # li.insertAtIndex(7,14)
-    # li.display()
-    # # li.deleteAtLast()
-    # # li.deleteAtfirst()
-    # li.deleteAtIndext(3)
-    # li.display()
-    # print(li.size,li.head.data,li.tail.data)
-    
+ 
